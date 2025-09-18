@@ -1,0 +1,6 @@
+@Birth_certificate_HostAddress = http://localhost:5239
+
+GET {{Birth_certificate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,57 @@
+2025-09-18 11:12:10.242 CAT [16322] LOG:  starting PostgreSQL 14.19 (Homebrew) on x86_64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.202), 64-bit
+2025-09-18 11:12:10.245 CAT [16322] LOG:  listening on IPv6 address "::1", port 5432
+2025-09-18 11:12:10.245 CAT [16322] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-09-18 11:12:10.245 CAT [16322] FATAL:  could not open lock file "/tmp/.s.PGSQL.5432.lock": Permission denied
+2025-09-18 11:12:10.247 CAT [16322] LOG:  database system is shut down
+2025-09-18 11:14:21.926 CAT [16355] LOG:  starting PostgreSQL 14.19 (Homebrew) on x86_64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.202), 64-bit
+2025-09-18 11:14:21.929 CAT [16355] LOG:  listening on IPv6 address "::1", port 5432
+2025-09-18 11:14:21.929 CAT [16355] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-09-18 11:14:21.931 CAT [16355] LOG:  could not bind Unix address "/tmp/.s.PGSQL.5432": Address already in use
+2025-09-18 11:14:21.931 CAT [16355] HINT:  Is another postmaster already running on port 5432?
+2025-09-18 11:14:21.931 CAT [16355] WARNING:  could not create Unix-domain socket in directory "/tmp"
+2025-09-18 11:14:21.931 CAT [16355] FATAL:  could not create any Unix-domain sockets
+2025-09-18 11:14:21.932 CAT [16355] LOG:  database system is shut down
+2025-09-18 11:15:39.817 CAT [16374] LOG:  starting PostgreSQL 14.19 (Homebrew) on x86_64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.202), 64-bit
+2025-09-18 11:15:39.819 CAT [16374] LOG:  listening on IPv6 address "::1", port 5432
+2025-09-18 11:15:39.819 CAT [16374] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-09-18 11:15:39.819 CAT [16374] LOG:  could not bind Unix address "/tmp/.s.PGSQL.5432": Address already in use
+2025-09-18 11:15:39.819 CAT [16374] HINT:  Is another postmaster already running on port 5432?
+2025-09-18 11:15:39.819 CAT [16374] WARNING:  could not create Unix-domain socket in directory "/tmp"
+2025-09-18 11:15:39.820 CAT [16374] FATAL:  could not create any Unix-domain sockets
+2025-09-18 11:15:39.821 CAT [16374] LOG:  database system is shut down
+2025-09-18 11:18:41.227 CAT [16399] LOG:  starting PostgreSQL 14.19 (Homebrew) on x86_64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.202), 64-bit
+2025-09-18 11:18:41.231 CAT [16399] LOG:  listening on IPv6 address "::1", port 5432
+2025-09-18 11:18:41.231 CAT [16399] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-09-18 11:18:41.232 CAT [16399] LOG:  could not bind Unix address "/tmp/.s.PGSQL.5432": Address already in use
+2025-09-18 11:18:41.232 CAT [16399] HINT:  Is another postmaster already running on port 5432?
+2025-09-18 11:18:41.232 CAT [16399] WARNING:  could not create Unix-domain socket in directory "/tmp"
+2025-09-18 11:18:41.232 CAT [16399] FATAL:  could not create any Unix-domain sockets
+2025-09-18 11:18:41.233 CAT [16399] LOG:  database system is shut down
+2025-09-18 11:21:42.531 CAT [16441] LOG:  starting PostgreSQL 14.19 (Homebrew) on x86_64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.202), 64-bit
+2025-09-18 11:21:42.534 CAT [16441] LOG:  listening on IPv6 address "::1", port 5432
+2025-09-18 11:21:42.534 CAT [16441] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-09-18 11:21:42.535 CAT [16441] LOG:  could not bind Unix address "/tmp/.s.PGSQL.5432": Address already in use
+2025-09-18 11:21:42.535 CAT [16441] HINT:  Is another postmaster already running on port 5432?
+2025-09-18 11:21:42.535 CAT [16441] WARNING:  could not create Unix-domain socket in directory "/tmp"
+2025-09-18 11:21:42.535 CAT [16441] FATAL:  could not create any Unix-domain sockets
+2025-09-18 11:21:42.536 CAT [16441] LOG:  database system is shut down
+2025-09-18 11:22:32.358 CAT [16462] LOG:  starting PostgreSQL 14.19 (Homebrew) on x86_64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.202), 64-bit
+2025-09-18 11:22:32.363 CAT [16462] LOG:  listening on IPv6 address "::1", port 5432
+2025-09-18 11:22:32.363 CAT [16462] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-09-18 11:22:32.364 CAT [16462] LOG:  could not bind Unix address "/tmp/.s.PGSQL.5432": Address already in use
+2025-09-18 11:22:32.364 CAT [16462] HINT:  Is another postmaster already running on port 5432?
+2025-09-18 11:22:32.364 CAT [16462] WARNING:  could not create Unix-domain socket in directory "/tmp"
+2025-09-18 11:22:32.364 CAT [16462] FATAL:  could not create any Unix-domain sockets
+2025-09-18 11:22:32.365 CAT [16462] LOG:  database system is shut down
+2025-09-18 11:27:58.109 CAT [16557] LOG:  starting PostgreSQL 14.19 (Homebrew) on x86_64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.202), 64-bit
+2025-09-18 11:27:58.112 CAT [16557] LOG:  listening on IPv6 address "::1", port 5432
+2025-09-18 11:27:58.112 CAT [16557] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-09-18 11:27:58.113 CAT [16557] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2025-09-18 11:27:58.124 CAT [16558] LOG:  database system was shut down at 2025-09-18 11:11:41 CAT
+2025-09-18 11:27:58.131 CAT [16557] LOG:  database system is ready to accept connections
+2025-09-18 11:28:49.760 CAT [16571] FATAL:  role "postgres" does not exist
+2025-09-18 11:29:55.283 CAT [16581] FATAL:  database "birthcertificate" does not exist
+2025-09-18 11:45:27.315 CAT [16870] ERROR:  relation "__EFMigrationsHistory" does not exist at character 45
+2025-09-18 11:45:27.315 CAT [16870] STATEMENT:  SELECT "MigrationId", "ProductVersion"
+	FROM "__EFMigrationsHistory"
+	ORDER BY "MigrationId"
