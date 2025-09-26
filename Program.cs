@@ -1,6 +1,9 @@
 using Microsoft.OpenApi.Models;
 using Microsoft.EntityFrameworkCore;
 using BirthCertificateRegistrationSystem.Data;
+using Swashbuckle.AspNetCore.Annotations;
+using BirthCertificateRegistrationSystem.Models;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +22,14 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
+builder.Services.AddControllers();
+builder.Services.AddScoped<UserService>();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.EnableAnnotations();
+});
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
@@ -32,5 +43,6 @@ app.UseHttpsRedirection();
 app.MapGet("/", () => "Welcome to the Birth Certificate Registration System!");
 
 
-
+app.UseAuthorization();
+app.MapControllers();
 app.Run();

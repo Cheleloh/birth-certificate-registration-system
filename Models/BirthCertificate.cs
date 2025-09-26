@@ -14,4 +14,5 @@ namespace BirthCertificateRegistrationSystem.Models
         public DateTime DateIssued { get; set; }
         public int RegisteredByUserId { get; set; }
     }
+
 }

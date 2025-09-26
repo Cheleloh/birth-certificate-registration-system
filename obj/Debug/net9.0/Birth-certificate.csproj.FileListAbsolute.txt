@@ -153,3 +153,4 @@
 /Users/Jane/Documents/GitHub/MyProjects/Birth-certificate/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/Jane/Documents/GitHub/MyProjects/Birth-certificate/bin/Debug/net9.0/Npgsql.dll
 /Users/Jane/Documents/GitHub/MyProjects/Birth-certificate/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/Jane/Documents/GitHub/MyProjects/Birth-certificate/bin/Debug/net9.0/Swashbuckle.AspNetCore.Annotations.dll

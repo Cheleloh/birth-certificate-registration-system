@@ -12,6 +12,7 @@ namespace BirthCertificateRegistrationSystem.Data
 
         public DbSet<Application> Applications { get; set; }
         public DbSet<BirthCertificate> BirthCertificates { get; set; }
+        public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

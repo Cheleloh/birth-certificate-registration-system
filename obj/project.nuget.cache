@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3eKzwEta3z0=",
+  "dgSpecHash": "uWqIvfV0HXI=",
   "success": true,
   "projectFilePath": "/Users/Jane/Documents/GitHub/MyProjects/Birth-certificate/Birth-certificate.csproj",
   "expectedPackageFiles": [
@@ -55,6 +55,7 @@
     "/Users/Jane/.nuget/packages/npgsql/9.0.0/npgsql.9.0.0.nupkg.sha512",
     "/Users/Jane/.nuget/packages/npgsql.entityframeworkcore.postgresql/9.0.0/npgsql.entityframeworkcore.postgresql.9.0.0.nupkg.sha512",
     "/Users/Jane/.nuget/packages/swashbuckle.aspnetcore/9.0.4/swashbuckle.aspnetcore.9.0.4.nupkg.sha512",
+    "/Users/Jane/.nuget/packages/swashbuckle.aspnetcore.annotations/9.0.4/swashbuckle.aspnetcore.annotations.9.0.4.nupkg.sha512",
     "/Users/Jane/.nuget/packages/swashbuckle.aspnetcore.swagger/9.0.4/swashbuckle.aspnetcore.swagger.9.0.4.nupkg.sha512",
     "/Users/Jane/.nuget/packages/swashbuckle.aspnetcore.swaggergen/9.0.4/swashbuckle.aspnetcore.swaggergen.9.0.4.nupkg.sha512",
     "/Users/Jane/.nuget/packages/swashbuckle.aspnetcore.swaggerui/9.0.4/swashbuckle.aspnetcore.swaggerui.9.0.4.nupkg.sha512",

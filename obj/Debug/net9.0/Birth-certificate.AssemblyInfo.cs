@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Birth-certificate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+211bb99ec2ca1a6017a459f6950043afdb2df923")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+284411a1d5a25a0c96862d1e74dcb9cf46c362ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("Birth-certificate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Birth-certificate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

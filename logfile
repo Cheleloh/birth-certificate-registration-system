@@ -55,3 +55,7 @@
 2025-09-18 11:45:27.315 CAT [16870] STATEMENT:  SELECT "MigrationId", "ProductVersion"
 	FROM "__EFMigrationsHistory"
 	ORDER BY "MigrationId"
+2025-09-24 09:02:30.565 CAT [16557] LOG:  received smart shutdown request
+2025-09-24 09:02:30.569 CAT [16557] LOG:  background worker "logical replication launcher" (PID 16564) exited with exit code 1
+2025-09-24 09:02:30.570 CAT [16559] LOG:  shutting down
+2025-09-24 09:02:30.600 CAT [16557] LOG:  database system is shut down

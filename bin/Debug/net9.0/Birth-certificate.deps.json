@@ -13,7 +13,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.0",
-          "Swashbuckle.AspNetCore": "9.0.4"
+          "Swashbuckle.AspNetCore": "9.0.4",
+          "Swashbuckle.AspNetCore.Annotations": "9.0.4"
         },
         "runtime": {
           "Birth-certificate.dll": {}
@@ -738,6 +739,17 @@
           "Swashbuckle.AspNetCore.SwaggerUI": "9.0.4"
         }
       },
+      "Swashbuckle.AspNetCore.Annotations/9.0.4": {
+        "dependencies": {
+          "Swashbuckle.AspNetCore.SwaggerGen": "9.0.4"
+        },
+        "runtime": {
+          "lib/net9.0/Swashbuckle.AspNetCore.Annotations.dll": {
+            "assemblyVersion": "9.0.4.0",
+            "fileVersion": "9.0.4.1727"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore.Swagger/9.0.4": {
         "dependencies": {
           "Microsoft.OpenApi": "1.6.25"
@@ -1388,6 +1400,13 @@
       "sha512": "sha512-4hghaogMoS87Ivjj8s7aGuGsxrsjXZpjNvahLsN+zSLrZQcV8zQyiBweBd9AXC1sGkeNYb9/hbeS1EXrZ/hKjQ==",
       "path": "swashbuckle.aspnetcore/9.0.4",
       "hashPath": "swashbuckle.aspnetcore.9.0.4.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.Annotations/9.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3A1WdbCnGiz/h5DcfkU0kPWUvuf3ubOq4G3x/eMLZ+bM0W2PTnS5n/1XS1P125qiFvzDhOyaWNO0U7+ePxeIuA==",
+      "path": "swashbuckle.aspnetcore.annotations/9.0.4",
+      "hashPath": "swashbuckle.aspnetcore.annotations.9.0.4.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore.Swagger/9.0.4": {
       "type": "package",
